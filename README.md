@@ -13,7 +13,6 @@ If you choose to use this template as a public repository, you **MUST NOT** comm
 The recommended workflow is to clone this repository into a new, local, and secure directory for each new client engagement.
 
 ```bash
-# Example for a new project for "Acme Corp"
 git clone https://github.com/jf773/Penetration-Test-Engagement-Template.git
 cd ./Penetration-Test-Engagement-Template
 ```
