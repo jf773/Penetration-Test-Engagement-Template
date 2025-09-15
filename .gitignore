@@ -1,0 +1,22 @@
+# Ignore the entire credentials directory - CRITICAL
+04_EVIDENCE/credentials/
+
+# Ignore common log files and tool outputs
+*.log
+*.pcap
+*.nessus
+*.db
+
+# Ignore secrets and keys
+secret*
+*.secret
+*key*
+*.key
+*.pem
+*.pfx
+credentials.txt
+creds.txt
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
