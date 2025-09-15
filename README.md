@@ -14,8 +14,8 @@ The recommended workflow is to clone this repository into a new, local, and secu
 
 ```bash
 # Example for a new project for "Acme Corp"
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git) AcmeCorp_Internal_Pentest
-cd AcmeCorp_Internal_Pentest
+git clone https://github.com/jf773/Penetration-Test-Engagement-Template.git
+cd ./Penetration-Test-Engagement-Template
 ```
 
 **From this point on, all work should be done locally. Do not push engagement data back to the remote template repository.**
